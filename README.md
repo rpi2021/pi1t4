@@ -5,7 +5,7 @@
 03 pi4work, pi4664 黑卡8G  带ui  稳定终端  
 04 arm64， mj终端, 绿8G   
 05 u20s, 兰8G   ubuntu server 2020
-06 opui  
+06 opui    
 07 op64  
 
 ## 分区大小
