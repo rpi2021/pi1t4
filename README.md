@@ -1,10 +1,10 @@
-# Pi4B-4G; 硬盘1T 安装日志 
+# Pi4B-4G 硬盘1T 安装日志 
 
 ## 分区 gpt引导  
 02 pi4b, kde22 本地运行  manjaro kde  (ssh ； real-vnc)  
 03 pi4work, pi4664 黑卡8G  带ui  稳定终端  
 04 arm64， mj终端, 绿8G   
-05 u20s, 兰8G   ubuntu server 2020
+05 u20s, 兰8G ubuntu-server-2020
 06 opui    
 07 op64  
 
